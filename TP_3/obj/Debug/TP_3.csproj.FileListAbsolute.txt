@@ -1,0 +1,6 @@
+C:\Users\BaptisteM\RiderProjects\TP_3\TP_3\bin\Debug\TP_3.exe
+C:\Users\BaptisteM\RiderProjects\TP_3\TP_3\bin\Debug\TP_3.pdb
+C:\Users\BaptisteM\RiderProjects\TP_3\TP_3\obj\Debug\TP_3.csprojAssemblyReference.cache
+C:\Users\BaptisteM\RiderProjects\TP_3\TP_3\obj\Debug\TP_3.csproj.CoreCompileInputs.cache
+C:\Users\BaptisteM\RiderProjects\TP_3\TP_3\obj\Debug\TP_3.exe
+C:\Users\BaptisteM\RiderProjects\TP_3\TP_3\obj\Debug\TP_3.pdb
